@@ -1,4 +1,9 @@
-### Hi there 👋
+## Who am I?
+
+*  Name : 김종호
+
+*  Email : 1313kjh@gmail.com 
+
 
 <!--
 **bellho/bellho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
