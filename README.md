@@ -1,8 +1,8 @@
-## Who am I?
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=bellho&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-*  Name : 김종호
+👋🏻 Hi, I'm bellho
+- 📫 How to reach me: dms102336@gmail.com
 
-*  Email : 1313kjh@gmail.com 
 
 
 <!--
