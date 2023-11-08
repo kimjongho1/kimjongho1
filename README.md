@@ -25,6 +25,16 @@
 <a href="링크"><img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=flat-square&logo=ECLIPSE IDE&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/></a>
 
+<br>
+
+
+### 💻 Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellho)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+
 
 
 <!--
