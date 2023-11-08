@@ -3,7 +3,7 @@
 👋🏻 Hi, I'm bellho
 - 📫 How to reach me: 1313kjh@gmail.com
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomhojun1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellho)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📌 stack
 
