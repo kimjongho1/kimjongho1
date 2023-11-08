@@ -2,6 +2,9 @@
 
 👋🏻 Hi, I'm bellho
 - 📫 How to reach me: dms102336@gmail.com
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomhojun1)](https://github.com/anuraghazra/github-readme-stats)
+### 📌 stack
 
 
 
