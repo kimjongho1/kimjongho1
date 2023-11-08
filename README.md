@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=bellho&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 👋🏻 Hi, I'm bellho
-- 📫 How to reach me: dms102336@gmail.com
+- 📫 How to reach me: 1313kjh@gmail.com
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomhojun1)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📌 stack
 
 
