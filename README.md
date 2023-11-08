@@ -2,8 +2,19 @@
 
 👋🏻 Hi, I'm bellho
 - 📫 How to reach me: 1313kjh@gmail.com
+
 <br>
 
+### 📌 stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+<br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<br>
 
 ### 👩🏻‍💻 stats
 
@@ -12,21 +23,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bellho)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-
-### 📌 stack
-<a href="링크"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat-square&logo=java&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-
-<a href="링크"><img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=flat-square&logo=ECLIPSE IDE&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/></a>
-
-<br>
-
 
 ### 💻 Languages
 
