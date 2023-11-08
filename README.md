@@ -2,8 +2,16 @@
 
 👋🏻 Hi, I'm bellho
 - 📫 How to reach me: 1313kjh@gmail.com
-<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellho)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+
+### 👩🏻‍💻 stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bellho&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bellho)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 ### 📌 stack
 
