@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=bellho&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-👋🏻 Hi, I'm bellho
+👋🏻 Hi, I'm kimjongho1
 - 📫 How to reach me: 1313kjh@gmail.com
 
 <br>
