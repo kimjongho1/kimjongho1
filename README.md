@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=bellho&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=kimjongho1&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 👋🏻 Hi, I'm kimjongho1
 - 📫 How to reach me: 1313kjh@gmail.com
@@ -18,15 +18,15 @@
 
 ### 👩🏻‍💻 stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bellho&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjongho1&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bellho)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimjongho1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
 ### 💻 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellho)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjongho1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
@@ -34,7 +34,7 @@
 
 
 <!--
-**bellho/bellho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kimjongho1/kimjongho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
